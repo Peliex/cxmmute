@@ -1,0 +1,17 @@
+abbreviation: WK
+available: false
+classes: 1
+colour: 51
+id: 0
+label: WDXT
+longName: workers
+name: Workers
+penaltyLength: 129
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/workers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16

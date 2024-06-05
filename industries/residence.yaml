@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- WDXT
+colour: 1
+fundCostMultiplier: 50
+id: 0
+layout:
+- - - -1
+name: Residence
+placement: in-town
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 90
+tiles: []
+type: primary

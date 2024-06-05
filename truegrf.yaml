@@ -1,4 +1,5 @@
-description: A new TrueGRF project
+description: Intricate passenger-oriented cargo and industry set.  Default industries can be boosted with workers.  Towns and cities can have Casinos which require tourists to boost city growth.  All houses produce either workers or tourists at random.
 license: CC0-1.0
+name: Cxmmute
 type: industry
 version: 6

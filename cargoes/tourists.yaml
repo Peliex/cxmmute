@@ -1,0 +1,17 @@
+abbreviation: TR
+available: false
+classes: 1
+colour: 201
+id: 1
+label: TRST
+longName: tourists
+name: Tourists
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 8224
+sprite:
+  filename: cargoes/tourists.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16

@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 255
+id: 1
+layout:
+- - - -1
+name: Casino
+placement: anywhere
+probabilityInGame: 12
+probabilityMapGen: 12
+prospectChance: 0
+tiles: []
+type: secondary
